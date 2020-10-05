@@ -20,7 +20,9 @@ The command you must type is:
 `python main.py (specify if the gray scale is going to be 70 or 10 character's long) (Image name)`
 
 # Example:
-`C:\Users\...\...\Image-to-Ascii>python main.py 70 download.png`
+`C:\Users\...\...\Image-to-Ascii>python main.py 70 download.jpg`
+Or
+`...\...\...\...\Image-to-Ascii>pytohn main.py 10 download.jpg`
 
 # Errors
 If a message like `Usage: python main.py (70 or 10) (Image name)` pops up, then you are using the program incorrectly.
