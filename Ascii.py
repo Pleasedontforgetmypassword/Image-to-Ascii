@@ -46,7 +46,7 @@ def write(number, image, file):
                 gray = image.getpixel((j, i))
                 
                 #writes the ascii character into Image.txt
-                key.write(char(number, gray))
+                key.write(char(number, gray)*2)
                 
             #Newline
             key.write("\n")
