@@ -8,4 +8,4 @@ The image you want to convert must be stored within the file that main.py, Image
 The command you must type is:
 python main.py (specify if the gray scale is going to be 70 or 10 character's long) (Image name)
 # Example:
-# python main.py 70 download.png
+# C:\Users\...\...\Image-to-Ascii>python main.py 70 download.png
