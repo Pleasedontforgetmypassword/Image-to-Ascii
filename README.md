@@ -2,7 +2,8 @@
 Convert Image to Ascii using python
 
 # How to download
-Go to where you want to download this file.\n
+Go to where you want to download this file.
+
 `git clone https://github.com/Pleasedontforgetmypassword/Image-to-Ascii.git`
 `cd Image-to-Ascii`
 
