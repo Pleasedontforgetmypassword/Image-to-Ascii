@@ -27,7 +27,7 @@ def write(number, image, file):
         for i in range(height):
             for j in range(width):
                 gray = image.getpixel((j, i))
-                key.write(char(number, gray)*2)
+                key.write(char(number, gray))
             key.write("\n")
         key.close()
 
