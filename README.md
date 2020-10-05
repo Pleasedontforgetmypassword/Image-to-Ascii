@@ -2,7 +2,7 @@
 Convert Image to Ascii using python
 
 # Gray scale
-10: @%#+=-:. 
+10: @%#+=-:. \
 70: $@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,"^`'. 
 
 # How to download
@@ -20,8 +20,8 @@ The command you must type is:
 `python main.py (specify if the gray scale is going to be 70 or 10 character's long) (Image name)`
 
 # Example:
-`C:\Users\...\...\Image-to-Ascii>python main.py 70 download.jpg`
-Or
+`C:\Users\...\...\Image-to-Ascii>python main.py 70 download.jpg`\
+Or\
 `...\...\...\...\Image-to-Ascii>python main.py 10 download.jpg`
 
 # Errors
