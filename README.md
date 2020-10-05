@@ -22,5 +22,8 @@ The command you must type is:
 # Example:
 `C:\Users\...\...\Image-to-Ascii>python main.py 70 download.png`
 
+# Errors
+If a message like `Usage: python main.py (70 or 10) (Image name)` pops up, then you are using the program incorrectly.
+
 # Ascii Image
 Open Image.txt and zoom out, you should see the image.
