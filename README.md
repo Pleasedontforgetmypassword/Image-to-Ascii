@@ -28,4 +28,4 @@ Or
 If a message like `Usage: python main.py (70 or 10) (Image name)` pops up, then you are using the program incorrectly.
 
 # Ascii Image
-Open Image.txt and zoom out, you should see the image.
+Open Image.txt and zoom out, you should see the image in ascii characters.
