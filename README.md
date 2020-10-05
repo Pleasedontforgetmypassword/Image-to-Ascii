@@ -21,3 +21,6 @@ The command you must type is:
 
 # Example:
 `C:\Users\...\...\Image-to-Ascii>python main.py 70 download.png`
+
+# Ascii Image
+Open Image.txt and zoom out, you should see the image.
