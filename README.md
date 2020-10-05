@@ -2,8 +2,8 @@
 Convert Image to Ascii using python
 
 # Gray scale
-10: @%#+=-:. \
-70: $@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,"^`'. 
+10 characters: @%#+=-:. \
+70 characters: $@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,"^`'. 
 
 # How to download
 Go to where you want to download this file and type.
