@@ -1,8 +1,12 @@
 # Image-to-Ascii
 Convert Image to Ascii using python
 
+# Gray scale
+10: @%#+=-:. 
+70: $@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,"^`'. 
+
 # How to download
-Go to where you want to download this file.
+Go to where you want to download this file and type.
 ```
 git clone https://github.com/Pleasedontforgetmypassword/Image-to-Ascii.git
 cd Image-to-Ascii
