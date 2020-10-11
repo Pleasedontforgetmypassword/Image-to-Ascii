@@ -28,7 +28,8 @@ Or\
 If a message like `Usage: python main.py (70 or 10) (Image name)` pops up, then you are using the program incorrectly.
 
 # Note
-The image to ascii program conversion, it is a 1:1 ratio. So bigger images will take a longer time and may look weird.
+The image to ascii program conversion, it is a 1:1 ratio. So bigger images will take a longer time and may look weird.\
+The Image that is being converted Must be one word, that means No Spaces, e.g Testing 1 == Invalid, Testing-1 == Valid
 
 # Ascii Image
 Open Image.txt and zoom out, you should see the image in ascii characters.
