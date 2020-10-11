@@ -9,7 +9,7 @@ def check(args):
         return False
     
     #if all those conditions are true, then return if the file can be opened
-    return valid(args[2:len(args)])
+    return valid(' '.join(args[2:len(args)]))
 
 #main function
 def main():
@@ -27,7 +27,7 @@ def main():
         print("Writing...")
         
         #write the image into ascii values
-        write(int(argv[1]), conversion(argv[2:len(argv)]), "Image.txt")
+        write(int(argv[1]), conversion(' '.join(argv[2:len(argv)])), "Image.txt")
         
         #tell the user the program is done
         print("Done")
