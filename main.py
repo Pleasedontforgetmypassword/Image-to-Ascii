@@ -5,7 +5,7 @@ from Ascii import valid, write, conversion
 def check(args):
     
     #if the second argument does not specify 10 or 70 characters, then return false
-    elif args[1] not in ["10", "70"]:
+    if args[1] not in ["10", "70"]:
         return False
     
     #if all those conditions are true, then return if the file can be opened
