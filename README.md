@@ -10,6 +10,7 @@ Go to where you want to download this file and type.
 ```
 git clone https://github.com/Pleasedontforgetmypassword/Image-to-Ascii.git
 cd Image-to-Ascii
+pip install -r requirements.txt
 ```
 
 # How to use the program
